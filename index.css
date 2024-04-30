@@ -1,0 +1,367 @@
+.tctxt {
+    position: absolute;
+    top: 40px;
+    font-size: larger;
+    width: 750px;
+  }
+  .tunjuk {
+    top: 2000px;
+    left: 800px;
+    width: 656.8px;
+    height: 362px;
+    object-fit: cover;
+  }
+  .tunjuk,
+  .tc,
+  .tcg {
+    position: absolute;
+  }
+  .tc {
+    top: 0;
+    left: 0;
+    font-size:xx-large;
+    display: inline-block;
+    width: 853.7px;
+    height: 73px;
+  }
+  .image-1-icon{
+    top: 100px;
+    left: 700px;
+    position: absolute;
+  }
+  .tcg {
+    top: 110px;
+    left: 0px;
+  }
+  .mmtxt {
+    top: 40px;
+    font-size: larger;
+    width: 969.5px;
+  }
+  .mm,
+  .mmp,
+  .mmtxt,
+  .mmtxte {
+    position: absolute;
+    left: 0;
+    display: inline-block;
+  }
+  .mm {
+    top: 0;
+    font-size: xx-large;
+    width: 885.5px;
+    height: 73px;
+  }
+  .mmc{
+    position: absolute;
+    left: 0px;
+    top: 110px;
+    font-size: xx-large;
+    width: 500px;
+  }
+  .mmp,
+  .mmtxte {
+    top: 2px;
+    width: 9px;
+  }
+  .mmp,
+  .mmtxte {
+    font-size: xx-large;
+    top: 600px;
+    left: 830px;
+    width: 641.8px;
+  }
+  .mmtxte {
+    top: 650px;
+    font-size: larger;
+    width: 660px;
+  }
+  .mms,
+  .salam{
+    position: absolute;
+    top: 150px;
+    left: 0;
+    width: 817.4px;
+    height: 650.4px;
+    object-fit: cover;
+  }
+  .salam {
+    top: 3400px;
+    left: 750px;
+    width: 603.7px;
+    height: 443px;
+  }
+  .mmg {
+    position: absolute;
+    top: 3250px;
+    left: 0px;
+    width: 1670px;
+    height: 941.4px;
+  }
+  .iitxt{
+    font-size: larger;
+  }
+  .iitxt,
+  .mc,
+  .mcp,
+  .mctxt,
+  .mctxte {
+    position: absolute;
+    top: 40px;
+    font-size: larger;
+    left: 0;
+    display: inline-block;
+    width: 934.7px;
+  }
+  .mcp{
+    font-size: xx-large;
+  }
+  .mc,
+  .mcp,
+  .mctxt,
+  .mctxte {
+    top: 450px;
+    left: 800px;
+    width: 618.7px;
+  }
+  .mc,
+  .mctxt,
+  .mctxte {
+    top: 490px;
+    font-size:larger;
+    width: 636.2px;
+  }
+  .mc,
+  .mctxt {
+    top: 110px;
+    font-size: xx-large;
+    left: 0;
+    width: 934.7px;
+  }
+  .mc {
+    top: 0;
+    font-size: xx-large;
+    width: 1059.3px;
+    height: 73px;
+  }
+  .sol1,
+  .sol2 {
+    position: absolute;
+    top: 720px;
+    left: 0;
+    width: 788px;
+    height: 577.5px;
+    object-fit: cover;
+  }
+  .sol1 {
+    top: 150px;
+    height: 577.1px;
+  }
+  .mcg {
+    position: absolute;
+    top: 1950px;
+    left: 0px;
+    width: 1670px;
+    height: 1409.5px;
+  }
+  .iic,
+  .iitxt1 {
+    left: 0;
+    width: 750px;
+  }
+  .iitxt1 {
+    position: absolute;
+    font-size: large;
+    top: 40px;
+    display: inline-block;
+  }
+  .iic {
+    top: 130px;
+    font-size: xx-large;
+  }
+  .ii,
+  .iic,
+  .iip,
+  .iitxte {
+    position: absolute;
+    display: inline-block;
+  }
+  .ii {
+    top: 0;
+    left: 0;
+    font-size:xx-large;
+    width: 1170.7px;
+    height: 73px;
+  }
+  .iip{
+    top: 550px;
+    font-size: xx-large;
+    left: 850px;
+    width: 600px;
+  }
+  .iitxte {
+    font-size: larger;
+    top: 590px;
+    left: 850px;
+    width: 600px;
+  }
+  .kucing,
+  .cfii{
+    position: absolute;
+    top: 1200px;
+    left: 850px;
+    width: 400px;
+    height: 500px;
+    object-fit: cover;
+  }
+  .cfii{
+    top: 175px;
+    left: 0;
+    width: 800px;
+    height: 600px;
+  }
+  .iig {
+    position: absolute;
+    top: 1150px;
+    left: 0px;
+    width: 1670px;
+    height: 865.3px;
+  }
+  .fetxt {
+    font-size: large;
+    top: 40px;
+    width: 750px;
+  }
+  .fe,
+  .fec,
+  .fetxt {
+    position: absolute;
+    left: 0;
+    display: inline-block;
+  }
+  .fe {
+    top: 0;
+    font-size: var(--font-size-56xl);
+    width: 829.3px;
+    font-size: xx-large;
+    height: 73px;
+  }
+  .fec {
+    font-size: xx-large;
+    top: 110px;
+    width: 908.1px;
+  }
+  .image-2-icon {
+    position: absolute;
+    top: 300px;
+    left: 700px;
+    width: 638.1px;
+    height: 362px;
+    object-fit: cover;
+  }
+  .fep,
+  .fetxte {
+    position: absolute;
+    top: 350px;
+    left: 800px;
+    display: inline-block;
+    width: 601.1px;
+  }
+  .fep{
+    font-size: xx-large;
+  }
+  .fetxte{
+    font-size: large;
+  }
+  .fetxte {
+    top: 390px;
+    width: 600px;
+  }
+  .cffe{
+    position: absolute;
+    top: 150px;
+    left: 0;
+    width: 765.5px;
+    height: 740px;
+    object-fit: cover;
+  }
+  .feg{
+    position: absolute;
+    top: 250px;
+    left: 0px;
+
+  }
+  .feature-envy {
+    top: calc(50% - 20px);
+    left: calc(50% - 850px);
+    color: #1e3d59;
+  }
+  .feature-envy,
+  .inappropriate-intimacy,
+  .middle-man, 
+  .message-chain,
+  .the-couplers{
+    position: absolute;
+    display: inline-block;
+    width: 200px;
+    cursor: pointer;
+  }
+  .the-couplers {
+    top: calc(50% - 20px);
+    left: 0;
+    color: #1e3d59;
+  }
+  .inappropriate-intimacy,
+  .middle-man {
+    top: calc(50% - 20px);
+    left: calc(50% - 705px);
+    color:#1e3d59;
+  }
+  .middle-man {
+    top: calc(50% - 20px);
+    left: calc(50% - 560px);
+  }
+  .message-chain{
+    top: calc(50% - 20px);
+    left: calc(50% - 450px);
+    color: #1e3d59;
+  }
+  .head-child1,
+  .head-inner,
+  .head-item,
+  .line-div {
+    position: absolute;
+    top: 19.5px;
+    left: 199.5px;
+    border-right: 1px solid var(--color-black);
+    box-sizing: border-box;
+    width: 1px;
+    height: 57px;
+  }
+  .head-child1,
+  .head-inner,
+  .line-div {
+    left: 799.5px;
+  }
+  .head-child1,
+  .line-div {
+    left: 599.5px;
+  }
+  .head-child1 {
+    left: 399.5px;
+  }
+  .head {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1920px;
+    height: 100px;
+    text-align: center;
+    font-size: var(--font-size-9xl);
+    color: var(--color-black);
+  }
+  body {
+    background-color: #f5f0e1;
+    overflow-y: auto;
+  }
+  
